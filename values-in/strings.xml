@@ -1916,7 +1916,7 @@ Kon: Kurang tantangan</string>
     <string name="store_modeinstalled">Terpasang</string>
     <string name="draft_feature_freefastspeed00_title">Kecepatan Cepat Tidak Terbatas</string>
     <string name="draft_feature_freetunnels00_title">Terowongan Tidak Terbatas</string>
-    <string name="dialog_storedelete_title">Uninstall</string>
+    <string name="dialog_storedelete_title">Hapus</string>
     <string name="dialog_storedelete_text">Apakah kamu yakin ingin menghapus plugin ini?</string>
     <string name="dialog_storedelete_cmddelete">Hapus</string>
     <string name="store_modefeatured">Unggulan</string>
@@ -1936,7 +1936,7 @@ Kon: Kurang tantangan</string>
     <string name="dialog_storereported_title">Plugin dilaporkan</string>
     <string name="dialog_storereported_text">Terima kasih atas masukanmu! Kami akan meninjau plugin ini dan mengambil tindakan yang sesuai.</string>
 
-    <string name="store_ratings">oleh %,d penilaian</string>
+    <string name="store_ratings">dari %,d penilaian</string>
     <string name="store_loadingerror">Eror</string>
     <string name="dialog_storeerror_title">Eror memuat</string>
     <string name="dialog_storeerror_text">Plugin ini tidak bisa dimuat karena alasan berikut:</string>
